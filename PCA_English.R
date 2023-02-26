@@ -1,6 +1,6 @@
 ##Input data file
 library(readxl)
-data_emiten <- read_excel("G:/data emiten.xlsx")
+data_emiten <- read_excel("G:/data emiten.xlsx") #example data file
 data <- as.data.frame(data_emiten)
 
 ###Multicollinearity check###
@@ -61,4 +61,3 @@ pca_fix
 new_Data=as.data.frame(pca_fix)
 new_Data
 uji_bart(new_Data)
- 
