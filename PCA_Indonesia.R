@@ -1,6 +1,6 @@
 ##Input file data
 library(readxl)
-data_emiten <- read_excel("G:/data emiten.xlsx")
+data_emiten <- read_excel("G:/data emiten.xlsx") #contoh data file
 data <- as.data.frame(data_emiten)
 
 ###cek multikolinearitas###
