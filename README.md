@@ -5,7 +5,7 @@ PCA is a method of reducing the dimensionality of a dataset by identifying the u
 
 PCA can be used for a variety of tasks, such as data compression, feature extraction, and data visualization. It is particularly useful for datasets with a large number of variables or features, as it allows for the identification of the most important variables in the data and can simplify subsequent analysis. PCA is widely used in fields such as finance, biology, image processing, and many others.
 
-- For English copy the **```PCA_English.R```**
-- For Bahasa Indonesia copy the **```PCA_Indonesia.R```**
+- For English copy the code in [PCA_English.R](https://github.com/zenklinov/PCA/blob/main/PCA_English.R)
+- For Bahasa Indonesia copy the code in [PCA_Indonesia.R](https://github.com/zenklinov/PCA/blob/main/PCA_Indonesia.R)
 
 How to use it: For each ## copy to R and check the result.
